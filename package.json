@@ -1,0 +1,20 @@
+{
+  "name": "redis-todo-list",
+  "version": "1.0.0",
+  "description": "Todo list using Redis + Node.js (Cashing Storage Application training)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0"
+  }
+}
